@@ -19,5 +19,5 @@ redde_ocr is a Flutter application designed for Optical Character Recognition (O
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/DevKevs/reede_ocr.git
+   git clone https://github.com/DevKevs/redde_mobile_assigment.git
    cd reede_ocr
